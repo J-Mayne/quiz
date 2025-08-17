@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Year 7 Ancient Egypt Prior-Knowledge Quiz</title>
+</head>
+<body>
+<h1>Year 7 Ancient Egypt Prior-Knowledge Quiz</h1>
+
+<form>
+
+<h2>Student information</h2>
+<p><label>Student name <input type="text" name="student_name" required></label></p>
+<p><label>Class group <input type="text" name="class_group" required></label></p>
+<p><label>Date <input type="date" name="date" required></label></p>
+
+<h2>A. Environment, time and place</h2>
+<p>1) The yearly Nile flood helped Egypt most with:</p>
+<label><input type="radio" name="q01_nile_flood" value="A" required> A. Making bronze weapons</label><br>
+<label><input type="radio" name="q01_nile_flood" value="B"> B. Growing extra grain</label><br>
+<label><input type="radio" name="q01_nile_flood" value="C"> C. Building step pyramids</label><br>
+<label><input type="radio" name="q01_nile_flood" value="D"> D. Trading with India</label>
+
+<p>2) What does "Lower Egypt" mean?</p>
+<label><input type="radio" name="q02_lower_egypt" value="A" required> A. The southern Nile valley</label><br>
+<label><input type="radio" name="q02_lower_egypt" value="B"> B. The northern Nile delta</label><br>
+<label><input type="radio" name="q02_lower_egypt" value="C"> C. The Sinai Peninsula</label><br>
+<label><input type="radio" name="q02_lower_egypt" value="D"> D. Nubia</label>
+
+<p>3) Which time order is correct?</p>
+<label><input type="radio" name="q03_order_kingdoms" value="A" required> A. Old → Middle → New</label><br>
+<label><input type="radio" name="q03_order_kingdoms" value="B"> B. Middle → Old → New</label><br>
+<label><input type="radio" name="q03_order_kingdoms" value="C"> C. New → Middle → Old</label><br>
+<label><input type="radio" name="q03_order_kingdoms" value="D"> D. Old → New → Middle</label>
+
+<p>4) What helped most with building and transport?</p>
+<label><input type="radio" name="q04_transport" value="A" required> A. Cedar from Lebanon</label><br>
+<label><input type="radio" name="q04_transport" value="B"> B. Iron ore</label><br>
+<label><input type="radio" name="q04_transport" value="C"> C. The Nile and papyrus boats</label><br>
+<label><input type="radio" name="q04_transport" value="D"> D. Granite</label>
+
+<h2>B. Society, power and belief</h2>
+<p>5) The pharaoh was mainly seen as:</p>
+<label><input type="radio" name="q05_pharaoh_role" value="A" required> A. A military governor</label><br>
+<label><input type="radio" name="q05_pharaoh_role" value="B"> B. An elected leader</label><br>
+<label><input type="radio" name="q05_pharaoh_role" value="C"> C. A god-king who kept ma'at (order)</label><br>
+<label><input type="radio" name="q05_pharaoh_role" value="D"> D. The chief scribe</label>
+
+<p>6) Which job fits the scribe?</p>
+<label><input type="radio" name="q06_scribe_job" value="A" required> A. High priest of Amun</label><br>
+<label><input type="radio" name="q06_scribe_job" value="B"> B. Keeping records and taxes</label><br>
+<label><input type="radio" name="q06_scribe_job" value="C"> C. Pyramid architect</label><br>
+<label><input type="radio" name="q06_scribe_job" value="D"> D. Provincial governor</label>
+
+<p>7) Why did Egyptians mummify the dead?</p>
+<label><input type="radio" name="q07_mummification_purpose" value="A" required> A. For museum display</label><br>
+<label><input type="radio" name="q07_mummification_purpose" value="B"> B. To prepare for the afterlife</label><br>
+<label><input type="radio" name="q07_mummification_purpose" value="C"> C. To honour the sun god</label><br>
+<label><input type="radio" name="q07_mummification_purpose" value="D"> D. To stop disease</label>
+
+<p>8) Hatshepsut is best known for:</p>
+<label><input type="radio" name="q08_hatshepsut" value="A" required> A. Inventing iron tools</label><br>
+<label><input type="radio" name="q08_hatshepsut" value="B"> B. Trade to Punt and major building</label><br>
+<label><input type="radio" name="q08_hatshepsut" value="C"> C. Writing the first law code</label><br>
+<label><input type="radio" name="q08_hatshepsut" value="D"> D. Founding the New Kingdom</label>
+
+<p>9) What is ma'at?</p>
+<label><input type="radio" name="q09_maat_meaning" value="A" required> A. Military victory</label><br>
+<label><input type="radio" name="q09_maat_meaning" value="B"> B. Order, truth and justice</label><br>
+<label><input type="radio" name="q09_maat_meaning" value="C"> C. Royal taxes</label><br>
+<label><input type="radio" name="q09_maat_meaning" value="D"> D. Burial rites</label>
+
+<h2>C. Everyday life and writing</h2>
+<p>10) Hieroglyphs are:</p>
+<label><input type="radio" name="q10_hieroglyphs" value="A" required> A. A type of temple</label><br>
+<label><input type="radio" name="q10_hieroglyphs" value="B"> B. Picture writing used by Egyptians</label><br>
+<label><input type="radio" name="q10_hieroglyphs" value="C"> C. A kind of stone</label><br>
+<label><input type="radio" name="q10_hieroglyphs" value="D"> D. A river boat</label>
+
+<p>11) Papyrus is:</p>
+<label><input type="radio" name="q11_papyrus" value="A" required> A. A plant used to make writing sheets</label><br>
+<label><input type="radio" name="q11_papyrus" value="B"> B. A tax collector</label><br>
+<label><input type="radio" name="q11_papyrus" value="C"> C. A desert wind</label><br>
+<label><input type="radio" name="q11_papyrus" value="D"> D. A temple guard</label>
+
+<p>12) A sarcophagus is:</p>
+<label><input type="radio" name="q12_sarcophagus" value="A" required> A. A farm building</label><br>
+<label><input type="radio" name="q12_sarcophagus" value="B"> B. A writing tool</label><br>
+<label><input type="radio" name="q12_sarcophagus" value="C"> C. A stone coffin</label><br>
+<label><input type="radio" name="q12_sarcophagus" value="D"> D. A fishing net</label>
+
+<h2>D. Contacts and big landmarks</h2>
+<p>13) The Rosetta Stone is important because it:</p>
+<label><input type="radio" name="q13_rosetta" value="A" required> A. Lists all pharaohs</label><br>
+<label><input type="radio" name="q13_rosetta" value="B"> B. Helped people read hieroglyphs</label><br>
+<label><input type="radio" name="q13_rosetta" value="C"> C. Proved a biblical story</label><br>
+<label><input type="radio" name="q13_rosetta" value="D"> D. Was the first law code</label>
+
+<p>14) Egypt’s contact with Nubia/Kush was mostly for:</p>
+<label><input type="radio" name="q14_nubia_contact" value="A" required> A. Religious conversion</label><br>
+<label><input type="radio" name="q14_nubia_contact" value="B"> B. Gold, soldiers and trade routes</label><br>
+<label><input type="radio" name="q14_nubia_contact" value="C"> C. Grain imports</label><br>
+<label><input type="radio" name="q14_nubia_contact" value="D"> D. Iron technology</label>
+
+<p>15) Who built the pyramids?</p>
+<label><input type="radio" name="q15_pyramids_workers" value="A" required> A. Only slaves</label><br>
+<label><input type="radio" name="q15_pyramids_workers" value="B"> B. Organised workers and crews</label><br>
+<label><input type="radio" name="q15_pyramids_workers" value="C"> C. Foreign kings</label><br>
+<label><input type="radio" name="q15_pyramids_workers" value="D"> D. Priests alone</label>
+
+</form>
+</body>
+</html>
